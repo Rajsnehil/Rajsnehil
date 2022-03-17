@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Snehil Raj
 - 👀 I’m interested in learning new things.
 - 🌱 I’m working as software development.
-- 📫 How to reach me snehil.raj@coloredcow.in
+- 📫 You can reach me at - snehil.raj@coloredcow.in
 
 <!---
 Rajsnehil/Rajsnehil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
