@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Snehil Raj
 - 👀 I’m interested in learning new things.
-- 🌱 I’m working as software development.
+- 🌱 I’m working as software developer.
 - 📫 You can reach me at - snehil.raj@coloredcow.in
 
 <!---
