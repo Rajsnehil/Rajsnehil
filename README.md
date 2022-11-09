@@ -33,9 +33,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 <!-- introduction -->
-<h3>I'm Sanam, Full Stack Software Developer from Nepal.
-
-I'm specialized in FinTech, .NET Technologies, Web Development, Automation, SQL, Data/QA Engineering!</h3>
 
 <!-- coder gif -->
 <p align="center">
