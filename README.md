@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Snehil Raj
-- 👀 I’m interested in learning new things.
-- 🌱 I’m working as software developer.
-- 📫 You can reach me at - snehil.raj@coloredcow.in
-
 <!---
 Rajsnehil/Rajsnehil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -11,6 +6,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/Rajsnehil/Rajsnehil/main/Intro.gif" alt="👋 Hi there! I'm (Snehil|Raj)|👋 Welcome to my Github profile" title=""/>
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Rajsnehil.Rajsnehil&color=00cf00)
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
 
 **Database and analytics**
