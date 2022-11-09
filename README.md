@@ -52,11 +52,15 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Rajsnehil&theme=discord)
+
+<br />
+
 <!-- activity graph -->
-<!-- <p align="center">
+<p align="center">
 <a href="#">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=sanamhub&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Sanam's monthly coding activity" />
-</a> -->
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Rajsnehil&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Snehil's monthly coding activity" />
+</a>
 </p>
 
 <br />
@@ -104,3 +108,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanamhub&count_private=true&show_icons=true&theme=merko" width="37%" alt="Sanam's Top Languages">
 
 <br /> -->
+
+
+\*<sub>This README is night theme compatible</sub>
