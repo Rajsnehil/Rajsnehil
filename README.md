@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 
 **Library and frameworks**
 
-| <img title=".NET" alt=".NET" width="40px" src="./assets/svg/lib/dotnet.svg" /> | <img title="C" alt="C" width="40px" src="./assets/svg/lib/react.svg" /> | <img title="Strapi" alt="Strapi" width="40px" src="./assets/svg/lib/jquery.svg" /> | <img title="Cypress" alt="Cypress" width="40px" src="./assets/svg/lib/cypress.svg" /> |
+| <img title=".NET" alt=".NET" width="40px" src="./assets/svg/lib/dotnet.svg" /> | <img title="React" alt="React" width="40px" src="./assets/svg/lib/react.svg" /> | <img title="Strapi" alt="Strapi" width="40px" src="./assets/svg/lib/jquery.svg" /> | <img title="Cypress" alt="Cypress" width="40px" src="./assets/svg/lib/cypress.svg" /> |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
 
