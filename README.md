@@ -1,8 +1,5 @@
-<p align="center" >
-<img src="https://raw.githubusercontent.com/Rajsnehil/Rajsnehil/main/Intro.gif" alt="👋 Hi there! I'm (Snehil|Raj)|👋 Welcome to my Github profile" title=""/>
-</p>
+<h3>Hello everyone</h3>
 
-#  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 :book:
+ I'm Snehil Raj.<br>
+ Software engineer at [coloredCow](https://coloredcow.com/)
 
-<h3>- 🖥 - I'm Snehil , Full Stack Software Developer [@ColoredCow](www.coloredcow.com).
-</h3>
